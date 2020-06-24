@@ -1,6 +1,6 @@
 import React from "react";
-import "./styles.css";
-import "./foundation-icons.css";
+import "./styles.scss";
+import "./foundation-icons.scss";
 
 export default function Root(props) {
   return (
