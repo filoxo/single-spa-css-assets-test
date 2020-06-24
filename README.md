@@ -1,6 +1,6 @@
-# Webpack CSS URLs test
+# single-spa-css-assets-test
 
-This is a sample repo that allows handling css assets with Webpack in a single-spa application.
+This is a troubleshooting repo that allows handling css assets with Webpack in a single-spa application.
 
 - image assets are included in output
 - image asset urls in the output css are relative to the deployed application
