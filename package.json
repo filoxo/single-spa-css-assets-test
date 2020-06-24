@@ -39,6 +39,8 @@
     "jest-cli": "^25.2.7",
     "prettier": "^2.0.4",
     "pretty-quick": "^2.0.1",
+    "sass": "^1.26.9",
+    "sass-loader": "^8.0.2",
     "single-spa-react": "^2.14.0",
     "systemjs-webpack-interop": "^1.1.2",
     "webpack": "^4.41.2",
